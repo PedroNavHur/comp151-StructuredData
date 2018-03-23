@@ -1,1 +1,9 @@
 Lauren Bolin              BA     CSC     4.0
+Zachary Allen             BS     SD      3.5
+Mary Yukich               BS     CSC     3.75
+Pedro Navarrete           BS     CSC     3.32
+Byron Carranza            BS     CENG    3.4
+Sarah FOuts               BA     MATH/FRENCH 3.8
+Ian Scott                 BA     MUS     3.15
+Andrew Westerholm         BS     CSC     3.6
+LAST
